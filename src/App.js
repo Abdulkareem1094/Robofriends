@@ -8,6 +8,8 @@ const App = () => {
     <div className='tc'>
       <h1 className='tc'>RoboFriends</h1>
       <SearchBox />
+      <SearchBox />
+      <SearchBox />
       <CardList robots={robots} />
     </div>
   );
